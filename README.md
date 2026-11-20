@@ -1,5 +1,11 @@
 # GTA 6: Vice City Jet-Ski Pass
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/wiiznu/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/wiiznu/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+Entry for the [make.fun gta6-clipper-01 bounty](https://make.fun/bounty/gta6-clipper-01) — "Clip GTA 6 for the most YouTube views", $500 in USDC for the 20 most-watched videos.
+
 This is the make.fun entry `gta6-clipper-01`, created by @wiiznu-bondet: a
 finished, 20-second vertical Short pairing a GTA VI moment with a make.fun
 bounty pitch and call to action.
