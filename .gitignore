@@ -1,0 +1,9 @@
+clip/*.mp4
+clip/*.mkv
+clip/*.webm
+clip/*.mov
+clip/*.png
+clip/*.jpg
+out/
+source/
+clip/verification/
